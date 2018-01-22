@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Install Node.js
 * Install watchman
 * Install Android Studio/Android SDK
+* Requires gradle 3.0.1
 
 ### Running 
 
