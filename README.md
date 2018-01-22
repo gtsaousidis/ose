@@ -1,6 +1,6 @@
 # Ose
 
-This app shows all train departures from Thessaloniki to Larissa
+This app shows all train departures from Athens to Larissa
 
 ## Getting started
 
