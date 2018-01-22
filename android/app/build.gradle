@@ -98,7 +98,7 @@ android {
     buildToolsVersion '26.0.2'
 
     defaultConfig {
-        applicationId "com.ose"
+        applicationId "gr.tsaousidis.ose"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
