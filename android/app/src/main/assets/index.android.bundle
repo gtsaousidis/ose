@@ -308,3 +308,4 @@ __d(function(e,t,a,n,r){var i=t(r[0]),o=babelHelpers.interopRequireDefault(i);a.
 __d(function(e,s,t,a,h){t.exports=s(h[0]).registerAsset({__packager_asset:!0,httpServerLocation:"/assets/images",width:200,height:124,scales:[1],hash:"5886a61497ee31c0b1559895873b2f96",name:"ose",type:"png"})},307,[141]);
 require(41);
 require(11);
+//# sourceMappingURL=index.android.map
